@@ -11,6 +11,12 @@ License:        All rights reserved
 
 @import url("../wordpress-jquerymobile/style.css");
 
+.entry {
+	max-width: 500em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .ui-body-a, .ui-overlay-a {
 	text-shadow: 0 1px 1px #AAA;
 }
